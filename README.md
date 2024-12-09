@@ -1,8 +1,3 @@
-ABOUT
--------------------------
-This is the base implementation of a full crawler that uses a spacetime
-cache server to receive requests. (THIS WAS CREATED FOR AN INFORMATION RETRIEVAL CLASS AND RAN ON SUCH SERVER)
-
 # Configuring config.ini
 
 Set the options in the config.ini file. The following
